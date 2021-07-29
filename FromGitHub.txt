@@ -3,3 +3,4 @@ This is the file i added from GitHub.com
 This is more stuff i added from remote
 
 this is new text
+This is a cool commit from remote
