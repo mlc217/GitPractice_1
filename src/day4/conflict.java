@@ -1,6 +1,9 @@
 package day4;
 
-public class collection {
+public class conflict {
 
     //this is a collection
 }
+
+
+
